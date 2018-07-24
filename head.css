@@ -1,0 +1,13 @@
+h1{
+  font-size: 25px;
+  color: white;
+}
+div {
+    height: 70px;
+    width: 50%;
+    background-color: white;
+}
+
+body{
+  background-color: black;
+}
